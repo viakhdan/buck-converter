@@ -6,4 +6,5 @@ Design goal is to step-down 12V to 5V, a typical application (car USB chargers, 
 
 Full specifications and report on the done work are available in the Report.pdf file.
 
-Note: Project is WIP.
+MATLAB version 2024b.
+Required dependencies: Simulink, Simscape, Simscape Electrical.
